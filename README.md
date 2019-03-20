@@ -22,3 +22,5 @@ Please, if you can test the powered hub method or have improvements to this hack
 https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842069/USB
 
 https://www.kernel.org/doc/html/v4.18/driver-api/usb/dwc3.html
+
+https://github.com/rajeshdubey293/al-ice_cedric/commit/25fccb73a8a1c85ba109da4cffb4a2b0c91d4b80
