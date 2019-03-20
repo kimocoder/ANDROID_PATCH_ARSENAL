@@ -17,3 +17,8 @@ Plug the phone's charger and USB device(s) into the Y-adapter before attaching i
 
 Please, if you can test the powered hub method or have improvements to this hack, feel free to share! Also, the standard legal disclaimer applies here that by using this mod/code/kernel in anyway is completely your responsibility. I'm not liable for any possible damages to your devices.
 
+## More information
+
+https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842069/USB
+
+https://www.kernel.org/doc/html/v4.18/driver-api/usb/dwc3.html
