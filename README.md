@@ -8,7 +8,9 @@ https://source.codeaurora.org/quic/la/kernel/msm-4.4/
 # For me the download will be..
 git fetch https://source.codeaurora.org/quic/la/kernel/msm-4.4/ LA.UM.7.3.r1-07400-sdm845.0
 ```
-# opo_dwc3_otg
+# opo_dwc3_otg - also known as the OTG-Y or Y-cable patch before. ACA mode hack information is below.
+# remember: patches will not fit, since your code most likely not like the patchers. manual editing/exploring
+
 ACA mode hack for Oneplus One's DWC3 usb driver
 
 A mod for the Oneplus One DWC3 otg module. This allows for charging and host mode simultaneously, inspired by Ziddey's msm_otg mod for the Nexus 4/7 (2013) (https://github.com/ziddey/mako/commits/nightlies-4.3-JSS). Functionality was ported over from his kernel hack to the DWC3 USB driver which now handles the MSM8974 USB controller. 
