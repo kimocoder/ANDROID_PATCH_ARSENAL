@@ -1,3 +1,13 @@
+# Updates CAF to Android source (merge upstream)
+
+An example, for me with OnePlus 6 with msm-4.4* kernel.
+```
+Find your device id/tag at https://wiki.codeaurora.org/xwiki/bin/QAEP/release
+https://source.codeaurora.org/quic/la/kernel/msm-4.4/
+
+# For me the download will be..
+git fetch https://source.codeaurora.org/quic/la/kernel/msm-4.4/ LA.UM.7.3.r1-07400-sdm845.0
+```
 # opo_dwc3_otg
 ACA mode hack for Oneplus One's DWC3 usb driver
 
