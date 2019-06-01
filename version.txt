@@ -1,7 +1,7 @@
 {
 	"version_code": 20,
 	"chroot_version": 3,
-	"chroot_sha512_full": "cd2e1b12e2452717c1e6f2507fd703407f6f0db640117b0ea013aa62142cef140c3a718e244249e5c992dc2374db2531b1bb3fa5f8b62909801deb069b0ade98",
-	"chroot_sha512_min": "bbaf8d1d77923db99f5d84d8afa637d65fa163cceb63c585d6f9e57a2128b82e57e750928ba6706368165596386d1bb6c73f6a04a2e4432da6fa30ba5119ce67",
-	"content": "Version 2019.2-rc5 <p>Please uninstall previous version before installing this one</P><p>Fixes</P><li>Wardriving tab removed until TCP server is added</li><li>Fix custom command not working sometimes</li><li>Karma fixes to match configuration file</li><li>Fruitywifi PHP start use correct version</li>"
+	"chroot_sha512_full": "a184e019821e72ea9d3db0b9eaa0ef58eb071302be88057571dc9b07bde34b333c53a984d9325411274f2f2c67245df4e9948d8947659b2b898a11b04899442d",
+	"chroot_sha512_min": "322a18334a4f848a53513fc1f9f5a62fb587e6051d2f729b60f963af279bfc3cf3f5ae55af67a1a2a438838f0a26064ea80d90234ad829a674b00fab4727bfd8",
+	"content": "Version 2019.3-dev <p>Please uninstall previous version before installing this one</P><p>Fixes</P><li>Wardriving tab removed until TCP server is added</li><li>Fix custom command not working sometimes</li><li>Karma fixes to match configuration file</li><li>Fruitywifi PHP start use correct version</li>"
 }
